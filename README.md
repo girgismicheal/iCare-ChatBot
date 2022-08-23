@@ -71,3 +71,53 @@ question: what are the features of your system?
 question: How to reach sales team? 
 
 
+
+# <a name="p4">Test Cases</a>
+After getting the competency questions, we get alternative ways to ask these questions. 
+
+**1.	Report a technical issue in integration**
+   - I have an integration issue
+   - The connection between Broker and PACS is stopped
+   - The appointment cannot be shown on the software
+   - The HIS messages can't reach the system.
+   - The broker is stopped
+   - How to Solve the Problem of integration?
+
+**2.	Report a technical issue in images.**
+   - How to solve the issue of not receiving images?
+   - Doctors can't see the exams on iPACS.
+   - The connection between the Modality and PACS is stopped.
+   - Modalities can't send to PACS
+   - PACS stopped working.
+   - PACS is down.
+
+**3.	Report a technical issue in diagnostic tool**
+   - How to diagnose patient exams?
+   - How to use the software?
+   - From where I can open the exam?
+   - How to find the diagnostic tools?
+   - How to open iPACS?
+   - What are the instructions for diagnosis?
+
+**4.	Ask about our products, or about a definite product**
+   - What are the features of the system?
+   - How is the software important?
+   - What are the uses of your products?
+   - I want to know more info about your products.
+   - How can your products be useful?
+   - What are your products?
+
+**5.	Ask for contacting one of sales representatives**
+   - Is there any email for the sales department?
+   - How to reach the sales team contact?
+   - Send me the sales contacts.
+   - I need to contact sales Department.
+   - Email of the sales department.
+
+
+**6.	File a complaint against definite employee in technical support department or sales department**
+   - I am upset from the service
+   - I want to file a complaint
+   - I want to make a complaint
+   - Complain to someone
+   - I have a complaint
