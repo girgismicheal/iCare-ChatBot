@@ -46,3 +46,28 @@ As we said, iCare consists of 4 classes and each class consists of different att
 **Ontology Graph:**
 
 ![image](Image/Picture5.png)
+
+
+
+
+# <a name="p3">Competency Questions</a>
+We put a question for each case:
+1.	File a complaint against definite employee in technical support department or sales department.
+question: I need to make a complaint?
+
+2.	Report a technical issue in integration.
+question: How to solve the problem of integration?
+
+3.	Report a technical issue in images.
+question: How to solve the problem of not receiving images?
+
+4.	Report a technical issue in diagnostic tool.
+ question: How to diagnose patient exam?
+
+5.	Ask about our products, or about a definite product.
+question: what are the features of your system?
+
+6.	Ask for contacting one of sales representatives.
+question: How to reach sales team? 
+
+
