@@ -17,3 +17,32 @@ The chatbot can help the customer main to:
 •	Ask about our products, or about a definite product.
 •	Ask for contacting one of the technical support representatives.
 
+
+# <a name="p2">Ontology</a>
+
+As we said, iCare consists of 4 classes and each class consists of different attributes and it goes as follow:
+•	Customer: Name, Email, Location, region, Facility name.
+•	Employee: Name, Email, deptID.
+•	Department: DeptID, Department name.
+•	Products: product name.
+
+**Class diagram:**
+
+![image](Image/Picture1.png)
+
+**Data Properties Diagram:**
+
+![image](Image/Picture2.png)
+
+
+**Object Attributes Diagram:**
+
+![image](Image/Picture3.png)
+
+**Individuals Diagram:**
+
+![image](Image/Picture4.png)
+
+**Ontology Graph:**
+
+![image](Image/Picture5.png)
