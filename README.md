@@ -121,3 +121,34 @@ After getting the competency questions, we get alternative ways to ask these que
    - I want to make a complaint
    - Complain to someone
    - I have a complaint
+
+
+# <a name="p5">Training</a>
+Training phrases examples:
+
+![Image](Image/Picture14.jpg)
+
+Text response examples:
+
+![Image](Image/Picture15.jpg)
+
+# <a name="p6">Evaluation</a> 
+
+| Sample 1                     | Sample 2                     |
+|------------------------------|------------------------------|
+| ![Image](Image/Picture6.png) | ![Image](Image/Picture7.png) |
+
+
+| Sample 3                     | Sample 4                     |
+|------------------------------|------------------------------|
+| ![Image](Image/Picture8.png) | ![Image](Image/Picture9.png) |
+
+
+| Sample 5                      | Sample 6                      |
+|-------------------------------|-------------------------------|
+| ![Image](Image/Picture10.png) | ![Image](Image/Picture11.png) |
+
+
+| Sample 7                      | Sample 8                      |
+|-------------------------------|-------------------------------|
+| ![Image](Image/Picture12.png) | ![Image](Image/Picture13.png) |
