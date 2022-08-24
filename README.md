@@ -12,19 +12,19 @@ You can try iCare ChatBot through this [Link](https://bot.dialogflow.com/a1d7bee
 # <a name="p1">Chatbot Subject</a>
 iCare is chatbot, for a software solutions company. This company offers software solutions for healthcare facilities, and consists of 4 main components (customer-department-employee-products), and it offers 2 main software solution for healthcare facilities (iPACS – iRIS). 
 The chatbot can help the customer main to: 
-•	File a complaint against definite employee in technical support department or sales department.
-•	Report a technical issue in definite product.
-•	Ask about our products, or about a definite product.
-•	Ask for contacting one of the technical support representatives.
+-	File a complaint against definite employee in technical support department or sales department.
+-	Report a technical issue in definite product.
+-	Ask about our products, or about a definite product.
+-	Ask for contacting one of the technical support representatives.
 
 
 # <a name="p2">Ontology</a>
 
 As we said, iCare consists of 4 classes and each class consists of different attributes and it goes as follow:
-•	Customer: Name, Email, Location, region, Facility name.
-•	Employee: Name, Email, deptID.
-•	Department: DeptID, Department name.
-•	Products: product name.
+-	Customer: Name, Email, Location, region, Facility name.
+-	Employee: Name, Email, deptID.
+-	Department: DeptID, Department name.
+-	Products: product name.
 
 **Class diagram:**
 
